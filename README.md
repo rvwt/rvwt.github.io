@@ -2,7 +2,7 @@
 Rick roll people using this website. It will redirect all users.
 
 ## Usage
-Go to [Bitly](https://bitly.com) or any other link shorteners and shorten `https://rawt4k.github.io`.
+Go to [Bitly](https://bitly.com) or any other link shorteners and shorten `https://rvwt.github.io`.
 
 ## Why is this useful?
 Most link shorteners like [Bitly](https://bitly.com) will display the target website when sent on platforms like Discord.
